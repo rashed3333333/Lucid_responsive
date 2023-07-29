@@ -1,0 +1,498 @@
+/* media quary start here */
+@media (min-width: 320px) and (max-width: 480px) {
+/*css start here */
+.header .navbar .navbar-nav .nav-item .nav-link {
+margin: 0px;
+}
+.header .navbar-nav .nav-item .active{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.banner{
+padding: 40px 0px;
+}
+.banner h4{
+font-size: 16px;
+}
+.banner h1{
+font-size: 32px;
+line-height: 1.2em;
+}
+.banner p {
+font-size: 12px;
+line-height: 1.7em;
+margin: 0px 5px 0px 0px;
+}
+.banner .double-btn {
+    padding: 25px 0px 0px 0px;
+}
+.banner .double-btn .btn-primary{
+font-size: 12px;
+padding: 10px 20px;
+margin: 0px 10px 0px 0px;
+}
+.banner .double-btn .btn-light{
+font-size: 12px;
+padding: 10px 20px;
+}
+.title {
+padding: 40px 0px;
+}
+.title h4 {
+font-size: 16px;
+}
+.title h1 {
+font-size: 30px;
+}
+.icon-box {
+padding: 20px;
+}
+.icon-box h4 {
+font-size: 18px;
+}
+.icon-box p {
+font-size: 12px;
+}
+.beatutiful-feature {
+padding: 40px 0px 20px;
+}
+.beatutiful-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+text-align: center;
+}
+.beatutiful-feature .title h4{
+text-align: center;
+}
+.beatutiful-feature .title ul {
+padding: 0px;
+}
+.supper-feature {
+padding: 20px 0px;
+}
+.supper-feature h1{
+text-align: center;
+}
+.supper-feature h4{
+text-align: center;
+}
+.supper-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+background-size: auto;
+}
+.testimonial .owl-carousel .item h4 {
+font-size: 16px;
+margin: 0px 0px 20px;
+}
+.testimonial .owl-carousel .item p {
+font-size: 12px;
+margin: 10px 0px 10px 10px;
+}
+.testimonial .owl-carousel .item .client {
+width: 60px;
+height: 60px;
+}
+.owl-theme .owl-dots .owl-dot span {
+width: 8px;
+height: 8px;
+}
+.testimonial .owl-theme .owl-dots .owl-dot.active span {
+background: #fff;
+width: 15px;
+height: 15px;
+margin: 5px 7px 2px;
+}
+.theme .col-lg-5{
+padding: 0px;
+margin: 0px;
+}
+.theme .double-btn .btn-light{
+font-size: 12px;
+line-height: 1.7em;
+padding: 10px 20px;
+margin: 0px 10px 0px -10px;
+}
+.theme .double-btn .btn-primary{
+font-size: 12px;
+line-height: 1.7em;
+padding: 10px 20px;
+}
+.pricing-box .price-head h3 {
+font-size: 20px;
+}
+.pricing-box .main-price h1 {
+font-size: 60px;
+}
+.pricing-box .main-price h1 sup {
+font-size: 25px;
+top: -1.3em;
+}
+.pricing-box .main-price p {
+font-size: 12px;
+}
+.pricing-box .price-content p {
+font-size: 12px;
+}
+.pricing-box .price-content .btn-primary {
+font-size: 12px;
+padding: 10px 20px;
+}
+.contact {
+    padding: 40px 0px 0px;
+}
+.contact .info .fa {
+    font-size: 30px;
+    margin: 10px 0px 10px;
+}
+.contact .info p {
+    font-size: 12px;
+    }
+.contact-form .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+/*css end here */
+}
+@media (min-width: 481px) and (max-width: 767px) {
+/*css start here */
+/*css start here */
+.header .navbar .navbar-nav .nav-item .nav-link {
+margin: 0px;
+}
+.header .navbar-nav .nav-item .active{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.banner{
+padding: 40px 0px;
+}
+.banner h4{
+font-size: 16px;
+}
+.banner h1{
+font-size: 32px;
+line-height: 1.2em;
+}
+.banner p {
+font-size: 12px;
+line-height: 1.7em;
+margin: 0px 5px 0px 0px;
+}
+.banner .double-btn {
+    padding: 25px 0px 0px 0px;
+}
+.banner .double-btn .btn-primary{
+font-size: 12px;
+padding: 10px 20px;
+margin: 0px 10px 0px 0px;
+}
+.banner .double-btn .btn-light{
+font-size: 12px;
+padding: 10px 20px;
+}
+.title {
+padding: 40px 0px;
+}
+.title h4 {
+font-size: 16px;
+}
+.title h1 {
+font-size: 30px;
+}
+.icon-box {
+padding: 20px;
+}
+.icon-box h4 {
+font-size: 18px;
+}
+.icon-box p {
+font-size: 12px;
+}
+.beatutiful-feature {
+padding: 40px 0px 20px;
+}
+.beatutiful-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+text-align: center;
+}
+.beatutiful-feature .title h4{
+text-align: center;
+}
+.beatutiful-feature .title ul {
+padding: 0px;
+}
+.supper-feature {
+padding: 20px 0px;
+}
+.supper-feature h1{
+text-align: center;
+}
+.supper-feature h4{
+text-align: center;
+}
+.supper-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+background-size: auto;
+}
+.testimonial .owl-carousel .item h4 {
+font-size: 16px;
+margin: 0px 0px 20px;
+}
+.testimonial .owl-carousel .item p {
+font-size: 12px;
+margin: 10px 0px 10px 10px;
+}
+.testimonial .owl-carousel .item .client {
+width: 60px;
+height: 60px;
+}
+.owl-theme .owl-dots .owl-dot span {
+width: 8px;
+height: 8px;
+}
+.testimonial .owl-theme .owl-dots .owl-dot.active span {
+background: #fff;
+width: 15px;
+height: 15px;
+margin: 5px 7px 2px;
+}
+.theme .col-lg-5{
+padding: 0px;
+margin: 0px;
+}
+.theme .double-btn .btn-light{
+font-size: 12px;
+line-height: 1.7em;
+padding: 10px 20px;
+margin: 0px 10px 0px -10px;
+}
+.theme .double-btn .btn-primary{
+font-size: 12px;
+line-height: 1.7em;
+padding: 10px 20px;
+}
+.pricing-box .price-head h3 {
+font-size: 20px;
+}
+.pricing-box .main-price h1 {
+font-size: 60px;
+}
+.pricing-box .main-price h1 sup {
+font-size: 25px;
+top: -1.3em;
+}
+.pricing-box .main-price p {
+font-size: 12px;
+}
+.pricing-box .price-content p {
+font-size: 12px;
+}
+.pricing-box .price-content .btn-primary {
+font-size: 12px;
+padding: 10px 20px;
+}
+.contact {
+    padding: 40px 0px 0px;
+}
+.contact .info .fa {
+    font-size: 30px;
+    margin: 10px 0px 10px;
+}
+.contact .info p {
+    font-size: 12px;
+    }
+.contact-form .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+/*css end here */
+
+/*css end here */
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+/*css start here */
+/*css start here */
+.header .navbar .navbar-nav .nav-item .nav-link {
+margin: 0px;
+}
+.header .navbar-nav .nav-item .active{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+background: url("../Images/underl.png") left bottom no-repeat;
+background-size: auto;
+}
+.banner{
+padding: 50px 0px;
+}
+.banner h4{
+font-size: 18px;
+}
+.banner h1{
+font-size: 35px;
+line-height: 1.2em;
+}
+.banner p {
+font-size: 13px;
+line-height: 1.7em;
+margin: 0px 10px 0px 0px;
+}
+.banner .double-btn {
+    padding: 25px 0px 0px 0px;
+}
+.banner .double-btn .btn-primary{
+font-size: 13px;
+padding: 10px 20px;
+margin: 0px 10px 0px 0px;
+}
+.banner .double-btn .btn-light{
+font-size: 13px;
+padding: 10px 20px;
+}
+.title {
+padding: 50px 0px;
+}
+.title h4 {
+font-size: 18px;
+}
+.title h1 {
+font-size: 35px;
+}
+.icon-box {
+padding: 20px;
+}
+.icon-box h4 {
+font-size: 18px;
+}
+.icon-box p {
+font-size: 13px;
+}
+.beatutiful-feature {
+padding: 40px 0px 20px;
+}
+.beatutiful-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+text-align: center;
+}
+.beatutiful-feature .title h4{
+text-align: center;
+}
+.beatutiful-feature .title ul {
+padding: 0px;
+}
+.supper-feature {
+padding: 20px 0px;
+}
+.supper-feature h1{
+text-align: center;
+}
+.supper-feature h4{
+text-align: center;
+}
+.supper-feature .title h1 {
+background: url(../Images/underl.png) bottom center no-repeat;
+background-size: auto;
+}
+.testimonial .owl-carousel .item h4 {
+font-size: 18px;
+margin: 0px 0px 20px;
+}
+.testimonial .owl-carousel .item p {
+font-size: 13px;
+margin: 10px 0px 10px 10px;
+}
+.testimonial .owl-carousel .item .client {
+width: 70px;
+height: 70px;
+}
+.owl-theme .owl-dots .owl-dot span {
+width: 8px;
+height: 8px;
+}
+.testimonial .owl-theme .owl-dots .owl-dot.active span {
+background: #fff;
+width: 15px;
+height: 15px;
+margin: 5px 7px 2px;
+}
+.theme .col-lg-5{
+padding: 0px;
+margin: 0px;
+}
+.theme .double-btn .btn-light{
+font-size: 13px;
+line-height: 1.7em;
+padding: 10px 20px;
+margin: 0px 10px 0px -10px;
+}
+.theme .double-btn .btn-primary{
+font-size: 13px;
+line-height: 1.7em;
+padding: 10px 20px;
+}
+.pricing-box .price-head h3 {
+font-size: 20px;
+}
+.pricing-box .main-price h1 {
+font-size: 70px;
+}
+.pricing-box .main-price h1 sup {
+font-size: 30px;
+top: -1.3em;
+}
+.pricing-box .main-price p {
+font-size: 13px;
+}
+.pricing-box .price-content p {
+font-size: 13px;
+}
+.pricing-box .price-content .btn-primary {
+font-size: 13px;
+padding: 10px 20px;
+}
+.contact {
+    padding: 40px 0px 0px;
+}
+.contact .info .fa {
+    font-size: 50px;
+    margin: 10px 0px 10px;
+}
+.contact .info p {
+    font-size: 13px;
+    }
+.contact-form .btn-primary {
+    font-size: 13px;
+    padding: 10px 20px;
+}
+
+.beatutiful-feature .img{
+	text-align: center;
+}
+
+/*css end here */
+
+/*css end here */
+}
+/* media quary end here */
